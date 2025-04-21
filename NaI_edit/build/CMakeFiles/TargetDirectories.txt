@@ -1,0 +1,7 @@
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/NaI.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/edit_cache.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/rebuild_cache.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/list_install_components.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/install.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/install/local.dir
+/home/prachi/softwares/g4work/G4Workshop_Calicut-main/NaI/build/CMakeFiles/install/strip.dir
