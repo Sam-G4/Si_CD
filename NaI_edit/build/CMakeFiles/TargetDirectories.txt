@@ -1,0 +1,7 @@
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/NaI.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/edit_cache.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/rebuild_cache.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/list_install_components.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/install.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/install/local.dir
+/home/sam/Softwares/G4work/Si_CD-main/NaI_edit/build/CMakeFiles/install/strip.dir
