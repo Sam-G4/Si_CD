@@ -1,0 +1,7 @@
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/NaI.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/edit_cache.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/rebuild_cache.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/list_install_components.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/install.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/install/local.dir
+/home/prachi/softwares/g4work/Si_CD-main/NaI_edit/build/CMakeFiles/install/strip.dir
